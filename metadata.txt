@@ -1,0 +1,10 @@
+# naming convention for all the recordings
+
+1. All recordings with a mask on will be stored in the with_mask folder
+2. All recordings without a mask will be stored in the without_mask folder
+3. Recording file will be named in a consistent format. <with|without>-mask-rec-<no>.<file format>>
+
+# References (if needed)
+<filename>.<file format> - <link/reference>
+
+1. example.mp4 - https://youtube.com/klfsehjfl35973204dslfjsdl
